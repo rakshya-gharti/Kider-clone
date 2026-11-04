@@ -3,12 +3,12 @@ import { FaLocationDot, FaPhone, FaEnvelope } from "react-icons/fa6";
 
 export default function Testimonials() {
   const gallery = [
-    "https://themewagon.github.io/kider/img/classes-1.jpg",
-    "https://themewagon.github.io/kider/img/classes-2.jpg",
-    "https://themewagon.github.io/kider/img/classes-3.jpg",
-    "https://themewagon.github.io/kider/img/classes-4.jpg",
-    "https://themewagon.github.io/kider/img/classes-5.jpg",
-    "https://themewagon.github.io/kider/img/classes-6.jpg",
+    "/img/classes-1.jpg",
+    "/img/classes-2.jpg",
+    "/img/classes-3.jpg",
+    "/img/classes-4.jpg",
+    "/img/classes-5.jpg",
+    "/img/classes-6.jpg",
   ];
 
   return (

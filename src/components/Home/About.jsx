@@ -21,7 +21,7 @@ sed sit sanctus dolor eos, ipsum labore duo duo sit no sea diam. Et dolor et kas
 
 <div className="flex items-center gap-3">
 <div >
-    <img src="https://themewagon.github.io/kider/img/user.jpg" alt="" className="rounded-full object-cover w-10 h-10" />
+    <img src="/img/user.jpg" alt="" className="rounded-full object-cover w-10 h-10" />
    </div>
 
    <div className="text-sm">
@@ -40,7 +40,7 @@ sed sit sanctus dolor eos, ipsum labore duo duo sit no sea diam. Et dolor et kas
   {/* Big center image */}
   <img
   
-    src="https://themewagon.github.io/kider/img/about-1.jpg"
+    src="/img/about-1.jpg"
     alt=""
     className="w-64 h-64 md:w-96 md:h-96 lg:w-[520px] lg:h-[520px] object-cover rounded-full border-[#FFF5F3] border-8 lg:border-[15px] hover:border-orange-500"
   />
@@ -51,7 +51,7 @@ sed sit sanctus dolor eos, ipsum labore duo duo sit no sea diam. Et dolor et kas
   <img
   //  data-aos="fade-up"
   // data-aos-delay="300"
-    src="https://themewagon.github.io/kider/img/about-2.jpg"
+    src="/img/about-2.jpg"
     alt=""
     className="absolute top-44 md:top-64 lg:top-80 left-16 md:left-4 lg:left-10 w-42 h-42 md:w-48 md:h-48 lg:w-70 lg:h-70 object-cover rounded-full border-[#FFF5F3] border-10 lg:border-[15px] hover:border-orange-500"
   />
@@ -60,7 +60,7 @@ sed sit sanctus dolor eos, ipsum labore duo duo sit no sea diam. Et dolor et kas
   <img
   //   data-aos="fade-up"
   // data-aos-delay="600"
-    src="https://themewagon.github.io/kider/img/about-3.jpg"
+    src="/img/about-3.jpg"
     alt=""
     className="absolute top-44 md:top-64 lg:top-80 right-16 md:right-4 lg:right-10 w-42 h-42 md:w-48 md:h-48 lg:w-70 lg:h-70 object-cover rounded-full border-[#FFF5F3] border-10 lg:border-[15px] hover:border-orange-500"
   />

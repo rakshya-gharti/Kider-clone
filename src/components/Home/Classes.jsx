@@ -2,27 +2,27 @@
 const classes = [
   {
     title: "Art & Drawing",
-    image: "https://themewagon.github.io/kider/img/classes-1.jpg",
+    image: "/img/classes-1.jpg",
   },
   {
     title: "Color Management",
-    image: "https://themewagon.github.io/kider/img/classes-2.jpg",
+    image: "/img/classes-2.jpg",
   },
   {
     title: "Athletic & Dance",
-    image: "https://themewagon.github.io/kider/img/classes-3.jpg",
+    image: "/img/classes-3.jpg",
   },
  {
     title: "Language & Speaking",
-    image: "https://themewagon.github.io/kider/img/classes-4.jpg",
+    image: "/img/classes-4.jpg",
   },
   {
     title: "Religion and History",
-    image: "https://themewagon.github.io/kider/img/classes-5.jpg",
+    image: "/img/classes-5.jpg",
   },
   {
     title: "General Knowledge",
-    image: "https://themewagon.github.io/kider/img/classes-6.jpg",
+    image: "/img/classes-6.jpg",
   },
 
 
@@ -71,7 +71,7 @@ export default function Classes() {
                 <div className="flex items-center justify-center gap-3 mt-4">
                   
                   <img
-                    src="https://themewagon.github.io/kider/img/user.jpg"
+                    src="/img/user.jpg"
                     alt=""
                     className="w-12 h-12 rounded-full"
                   />

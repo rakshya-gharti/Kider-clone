@@ -5,19 +5,19 @@ const testimonials = [
   {
     name: "Client Name",
     profession: "Profession",
-    image: "https://themewagon.github.io/kider/img/testimonial-1.jpg",
+    image: "/img/testimonial-1.jpg",
     text: "Tempor stet labore dolor clita stet diam amet ipsum dolor duo ipsum rebum stet dolor amet diam stet.",
   },
   {
     name: "Client Name",
     profession: "Profession",
-    image: "https://themewagon.github.io/kider/img/testimonial-2.jpg",
+    image: "/img/testimonial-2.jpg",
     text: "Tempor stet labore dolor clita stet diam amet ipsum dolor duo ipsum rebum stet dolor amet diam stet.",
   },
   {
     name: "Client Name",
     profession: "Profession",
-    image: "https://themewagon.github.io/kider/img/testimonial-3.jpg",
+    image: "/img/testimonial-3.jpg",
     text: "Tempor stet labore dolor clita stet diam amet ipsum dolor duo ipsum rebum stet dolor amet diam stet.",
   },
 ];

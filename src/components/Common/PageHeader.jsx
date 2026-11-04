@@ -6,7 +6,7 @@ export default function PageHeader({ title }) {
       className="relative h-[350px] bg-cover bg-center"
       style={{
         backgroundImage:
-          "url('https://themewagon.github.io/kider/img/carousel-1.jpg')",
+          "url('/img/carousel-1.jpg')",
       }}
     >
       {/* Overlay */}

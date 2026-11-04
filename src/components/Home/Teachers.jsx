@@ -3,17 +3,17 @@ import { FaFacebook, FaFacebookF } from "react-icons/fa"
 
 const teachers = [
     {
-        image: "https://themewagon.github.io/kider/img/team-1.jpg",
+        image: "/img/team-1.jpg",
         name:"Full Name",
         designation:"Designation"
     },
     {
-        image: "https://themewagon.github.io/kider/img/team-2.jpg",
+        image: "/img/team-2.jpg",
           name:"Full Name",
         designation:"Designation"
     },
     {
-        image: "https://themewagon.github.io/kider/img/team-3.jpg",
+        image: "/img/team-3.jpg",
           name:"Full Name",
         designation:"Designation"
     }

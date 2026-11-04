@@ -65,7 +65,7 @@ export default function Appointment() {
           
           
           <img
-            src="https://themewagon.github.io/kider/img/appointment.jpg"
+            src="/img/appointment.jpg"
             alt=""
             className="w-full h-full object-cover "
           />

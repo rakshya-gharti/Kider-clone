@@ -4,7 +4,7 @@ export default function BecomeTeacher() {
     <div className="grid grid-cols-1 lg:grid-cols-2 px-4 md:px-6 bg-white overflow-hidden gap-8 lg:gap-0">
 
 <div data-aos="fade-right" >
-<img src="https://themewagon.github.io/kider/img/call-to-action.jpg" alt=""
+<img src="/img/call-to-action.jpg" alt=""
  className="w-full rounded-lg h-[300px] md:h-[400px] lg:h-auto object-cover"/>
 </div>
 
